@@ -8,3 +8,10 @@ git merge y rama que queramos trasladar a la que estemos
 git rm --caches para borrar archivo en la nube y local
 git push
 git branch y rama que queramos crear
+origin es la rama que te quieres traer !!!ACOSTUMBRARSE A USAR ORIGIN Y LA RAMA
+ENERO 31
+git pull para bajar el archivo de la nube 
+Entran en conflicto los archivos si los has modificado desde otra rama 
+o en la nube
+
+roleback volver a copias antiguas
