@@ -1,0 +1,9 @@
+nada mas entrar usamos cd C: para entrar a la raiz que queremso de Windows y ya ir a nuestra carpeta main
+git config --global user.name <name>
+git pull
+git add .
+git commit -am ""
+git switch
+git merge y rama que queramos trasladar a la que estemos
+git rm --caches para borrar archivo en la nube y local
+git push
