@@ -7,3 +7,4 @@ git switch
 git merge y rama que queramos trasladar a la que estemos
 git rm --caches para borrar archivo en la nube y local
 git push
+git branch y rama que queramos crear
