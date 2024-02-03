@@ -1,3 +1,4 @@
+git clone url
 nada mas entrar usamos cd C: para entrar a la raiz que queremso de Windows y ya ir a nuestra carpeta main
 git config --global user.name <name>
 git pull
@@ -15,3 +16,4 @@ Entran en conflicto los archivos si los has modificado desde otra rama
 o en la nube
 
 roleback volver a copias antiguas
+git branch -D y rama que quieras eliminar del repositorio
